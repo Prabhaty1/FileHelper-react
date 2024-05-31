@@ -1,0 +1,16 @@
+.center{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5%;
+  margin-bottom: auto;
+}
+
+.center-without-text{
+  align-self: center;
+  text-align: match-parent;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5%;
+  margin-bottom: auto;
+}
