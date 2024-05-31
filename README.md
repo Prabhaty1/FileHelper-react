@@ -1,6 +1,6 @@
 # Adding Azure Cognitive service details
 
-Add Azure cognitive service details and storage container details in **.env.local** file to make use of File language translation feature.
+Add Azure cognitive service details and storage container details in **.env** file to make use of File language translation feature.
 
 # Getting Started with Create React App
 
